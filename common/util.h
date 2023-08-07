@@ -1,4 +1,3 @@
-@@ -0,0 +1,15 @@
 #ifndef ROCKET_COMMON_UTIL_H
 #define ROCKET_COMMON_UTIL_H
 

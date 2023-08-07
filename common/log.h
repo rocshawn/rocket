@@ -1,4 +1,3 @@
-@@ -0,0 +1,127 @@
 #ifndef ROCKET_COMMON_LOG_H
 #define ROCKET_COMMON_LOG_H
 

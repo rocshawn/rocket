@@ -1,4 +1,3 @@
-@@ -0,0 +1,27 @@
 #ifndef ROCKET_COMMON_CONFIG_H
 #define ROCKET_COMMON_CONFIG_H
 
